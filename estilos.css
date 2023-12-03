@@ -1,0 +1,18 @@
+/* Establecer el tamaño del texto en píxeles */
+p {
+  font-size: 16px;
+}
+
+/* Establecer el tamaño del texto en puntos */
+h1 {
+  font-size: 18pt;
+}
+
+/* Utilizar rem para el tamaño de fuente relativo al tamaño de fuente raíz */
+body {
+  font-size: 16px; /* Tamaño de fuente base */
+}
+
+p {
+  font-size: 1.2rem; /* Esto sería el 120% del tamaño de fuente base del cuerpo */
+}
