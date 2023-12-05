@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bienvenida a tu escape room</title>
+    <link>https://javiergg04/javiergg04.github.io/</link>
+    <description>Recent content on Bienvenida a tu escape room</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <atom:link href="https://javiergg04/javiergg04.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capítulo 1: El despertar</title>
+      <link>https://javiergg04/javiergg04.github.io/capitulo-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://javiergg04/javiergg04.github.io/capitulo-01/</guid>
+      <description>Sintió la luz del Sol a través de los párpados de sus ojos. Abrió lentamente los ojos, tratando de despegar las pestañas, que, perezosas, trataban de mantenerla unos instantes más en el reino de las sombras. Poco a poco la comprensión se fue abriendo camino a través de la bruma que agarrotaba su mente. Comenzó a recibir sensaciones del resto de su cuerpo, el frío duro y penetrante de una superficie dura contra su espalda, el entumecimiento de sus extremidades, la sequedad de su garganta y un dolor terrible en la sien.</description>
+    </item>
+    <item>
+      <title>Capítulo 2: El descubrimiento</title>
+      <link>https://javiergg04/javiergg04.github.io/capitulo-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://javiergg04/javiergg04.github.io/capitulo-02/</guid>
+      <description>La mirada de Rox se desvió hacia la ventana. Entre los visillos, algo brillaba con una luz particular. Al acercarse, descubrió una extraña inscripción grabada en el marco de la ventana. Una nota doblada yacía escondida detrás de la cortina, como si esperara ser encontrada.</description>
+    </item>
+  </channel>
+</rss>
